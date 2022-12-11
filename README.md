@@ -6,7 +6,7 @@ Run an election audit of the results for a U.S. congressional precinct in Colora
 * County results were as follow:
 -Jefferson: 10.5% (38,855)
 -Denver: 82.8% (306,055)
--Arapahoe: 6.7% (24,801)
+** Arapahoe: 6.7% (24,801)
 * Denver had the largest number of votes
 * Candidate results were as follow:
 -Charles Casper Stockham: 23.0% (85,213)
